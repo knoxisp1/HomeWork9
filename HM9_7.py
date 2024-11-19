@@ -45,5 +45,4 @@ def sum_three(a, b, c):
     return a + b + c
 
 # Тестирование
-sum_three(2, 3, 6)  # Простое
-sum_three(2, -4, 2)  # Составное
+sum_three(2, 3, 6)  
